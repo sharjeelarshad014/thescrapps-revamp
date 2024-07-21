@@ -9,7 +9,6 @@
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/style.php"); ?>
-
 </head>
 
 <body>
@@ -33,18 +32,24 @@
 						</div>
 					</div>
 					<div class="col-lg-7 align-self-center">
-						<h1><span class="glow-text">Design</span> <br> Tech Evo</h1>
+						<h1>
+							<div class="animated-text">
+								<span id="1_first" class="glow-text first-text">Design</span>
+								<span id="1_second" class="glow-text">Develop</span>
+								<span id="1_third" class="glow-text">Analysis</span>
+							</div>
+						<br> <span class="text_5">Tech Evo</span></h1>
 						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dolores, ipsum molestias veniam, minima voluptas explicabo dolor voluptatum unde illo enim similique tempora quod eum mollitia, neque magnam. Voluptate, aut!</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<section class="stripe" data-aos="fade-up">
+	<section class="stripe">
 		<div class="container">
 			<div class="row justify-content-between">
 					<div class="col-lg-6 align-self-center">
-						<div class="web-content sty1" data-aos="fade-right">
+						<div class="web-content sty1">
 							<h5>WE FORGE DYNAMIC PARTNERSHIPS WITH INDUSTRY LEADERS.</h5>
 							<p>Located in the USA, Scrapps specializes in the mobile app, iOS app, gaming app, prototype app, MVP app, NFT app, and machine learning app development. With a Robust track record and partnerships with top brands, we deliver innovative solutions that drive business growth. Partner with us to turn your Proposals into impactful digital experiences.</p>
 							<a href="/portfolio.php" class="btn btn-primary">Read more</a>
@@ -416,5 +421,32 @@
 	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/contact-form.php"); ?>
 	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/footer.php"); ?>
 	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/scripts.php"); ?>
+	<script>
+		var $1_first = $("#1_first"),
+			$1_second = $("#1_second"),
+			$1_third = $("#1_third"),
+			tl_1 = new TimelineMax();
+			tl_1
+			.to($1_first, 0.5, {alpha: 1, ease: Power1.easeIn},'+=1')
+			.to($1_first, 0.5, {alpha: 0, ease: Power1.easeOut},'+=0.3')
+			.to($1_second, 0.5, {alpha: 1, ease: Power1.easeIn})
+			.to($1_second, 0.5, {alpha: 0, ease: Power1.easeOut},'+=0.3')
+			.to($1_third, 0.5, {alpha: 1, ease: Power1.easeIn})
+			.to($1_third, 0.5, {alpha: 0, ease: Power1.easeOut},'+=0.3')
+			.to($1_first, 0.5, {alpha: 1, ease: Power1.easeIn});
+
+	</script>
+
+	<script>
+		//effect5
+		$('.text_5').each(function(){
+			$(this).html($(this).text().replace(/([^\x00-\x80]|\w)/g, "<span class='_text3'>$&</span>"));
+		});
+		var $text5 = $(".text_5"),
+			tl_5 = new TimelineMax({repeat:-1});
+			tl_5
+			.staggerFrom($text5, 0.5, {alpha: 0, x: 40, ease: Power1.easeOut}, 0.1,'+=1.2')
+			.staggerTo($text5, 0.5, {alpha: 0, x: -40, ease: Power1.easeOut}, 0.1, '+=1.5');
+	</script>
 </body>
 </html>
