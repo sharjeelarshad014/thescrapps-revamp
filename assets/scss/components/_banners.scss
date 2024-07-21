@@ -24,7 +24,7 @@
             text-transform: uppercase;
             letter-spacing: 15px;
 
-            span{
+            .glow-text{
                 @include fontCalcSize(164, 82);
                 letter-spacing: 5px;
                 font-weight: 800;
