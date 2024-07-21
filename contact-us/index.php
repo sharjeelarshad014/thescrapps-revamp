@@ -3,19 +3,19 @@
 <head>
 	<meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/brand-info.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/brand-info.php"); ?>
 	<title>Contact Us| <?php echo "$brandName";?></title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/style.php"); ?></head>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/style.php"); ?></head>
 
 <body>
 	<!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/header.php"); ?>
-	<div class="banner inner" style="background-image: url(/thescrapps/assets/img/bg/banner-about-us.png);">
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/header.php"); ?>
+	<div class="banner inner" style="background-image: url(/thescrapps-revamp/assets/img/bg/banner-about-us.png);">
         <div class="container h-100">
             <div class="row h-100">
                 <div class="col-lg-6 align-self-center">
@@ -32,7 +32,7 @@
 			<div class="row justify-content-between">
 				<div class="col-lg-6 align-self-center">
 					<div class="image-wrap">
-						<img src="/thescrapps/assets/img/mix/contact-form-img.png" alt="">
+						<img src="/thescrapps-revamp/assets/img/mix/contact-form-img.png" alt="">
 					</div>
 				</div>
 				<div class="col-lg-6 align-self-center">
@@ -68,7 +68,7 @@
 	
 	
 
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/footer.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/scripts.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/footer.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/scripts.php"); ?>
 </body>
 </html>

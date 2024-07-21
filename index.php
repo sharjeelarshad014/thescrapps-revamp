@@ -3,37 +3,39 @@
 <head>
 	<meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/brand-info.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/brand-info.php"); ?>
 	<title>Home | <?php echo "$brandName";?></title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/style.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/style.php"); ?>
 </head>
 
 <body>
 	<!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/header.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/header.php"); ?>
 	<div class="banner">
+		<div class="shape position-1"><img src="/thescrapps-revamp/assets/img/mix/shapes/shape1.png" alt=""></div>
+		<div class="shape position-2"><img src="/thescrapps-revamp/assets/img/mix/shapes/shape2.png" alt=""></div>
+		<div class="shape position-3"><img src="/thescrapps-revamp/assets/img/mix/shapes/shape3.png" alt=""></div>
+		<div class="shape position-4"><img src="/thescrapps-revamp/assets/img/mix/shapes/shape4.png" alt=""></div>
+		<div class="shape position-5"><img src="/thescrapps-revamp/assets/img/mix/shapes/shape5.png" alt=""></div>
+		<div class="shape position-6"><img src="/thescrapps-revamp/assets/img/mix/shapes/shape6.png" alt=""></div>
 		<div class="container h-100">
 			<div class="banner-content h-100 text-center">
-				<h1>BECOME NOTICEABLE WITH THE BEST APP <span>DEVELOPMENT SERVICES</span></h1>
-				<p>Our team of app developers has helped 500+ clients build a strong brand and enhance customer loyalty.</p>
-				<ul class="comnp-logos mt-4">
-					<li data-aos="zoom-in-up" data-aos-duration="500" class="aos-init aos-animate"><img src="/thescrapps/assets/img/mix/comp-1.png" alt=""></li>
-					<li data-aos="zoom-in-up" data-aos-duration="800" class="aos-init aos-animate"><img src="/thescrapps/assets/img/mix/comp-2.png" alt=""></li>
-					<li data-aos="zoom-in-up" data-aos-duration="1100" class="aos-init aos-animate"><img src="/thescrapps/assets/img/mix/comp-3.png" alt=""></li>
-					<li data-aos="zoom-in-up" data-aos-duration="1400" class="aos-init aos-animate"><img src="/thescrapps/assets/img/mix/comp-4.png" alt=""></li>
-				</ul>
-				<div class="comp-btn aos-init aos-animate" data-aos="fade-up">
-					<a href="/thescrapps/contact-us/" class="btn btn-primary">Get a Quote</a>
-					<a href="javascript:;" class="btn btn-transparent">Live Chat</a>
+				<div class="row justify-content-between h-100">
+					<div class="col-lg-5 h-100">
+						<div class="banner-img">
+							<img src="/thescrapps-revamp/assets/img/mix/banner-img.jpg" alt="">
+						</div>
+					</div>
+					<div class="col-lg-7 align-self-center">
+						<h1><span>Design</span> <br> Tech Evo</h1>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dolores, ipsum molestias veniam, minima voluptas explicabo dolor voluptatum unde illo enim similique tempora quod eum mollitia, neque magnam. Voluptate, aut!</p>
+					</div>
 				</div>
-			</div>
-			<div class="banner-img">
-				<img src="/thescrapps/assets/img/bg/banner-mob.avif" alt="">
 			</div>
 		</div>
 	</div>
@@ -49,13 +51,13 @@
 					</div>
 					<div class="col-lg-4">
 						<div class="image-wrap">
-							<img src="/thescrapps/assets/img/mix/whoweare.png" alt="">
+							<img src="/thescrapps-revamp/assets/img/mix/whoweare.png" alt="">
 						</div>	
 					</div>
 			</div>
 		</div>
 	</section>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/experience-sec.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/experience-sec.php"); ?>
 
 	<section class="stripe services-sec">
 		<div class="container">
@@ -65,14 +67,14 @@
 						<h3>Services We Offer</h3>
 						<p>Our clients love us because of our love for mobiles. We are pioneers in the app development industry. Some of our core expertise in app development includes:</p>
 						<div class="comp-btn text-left aos-init aos-animate" data-aos="fade-up">
-						<a href="/thescrapps/contact-us/" class="btn btn-primary">Get a Quote</a>
+						<a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get a Quote</a>
 						<a href="javascript:;" class="btn btn-transparent">Live Chat</a>
 					</div>
 					</div>
 				</div>
 				<div class="col-lg-4">
 					<div class="image-wrap">
-						<img src="/thescrapps/assets/img/mix/services-img.avif" alt="">
+						<img src="/thescrapps-revamp/assets/img/mix/services-img.avif" alt="">
 					</div>
 				</div>
 			</div>
@@ -170,34 +172,34 @@
 			<ul class="list-style">
 				<li>
 					<div class="section-image">
-						<img src="/thescrapps/assets/img/mix/partner1.avif" alt="">
+						<img src="/thescrapps-revamp/assets/img/mix/partner1.avif" alt="">
 					</div>
 				</li>
 				<li>
 					<div class="section-image">
-						<img src="/thescrapps/assets/img/mix/partner2.avif" alt="">
+						<img src="/thescrapps-revamp/assets/img/mix/partner2.avif" alt="">
 					</div>
 				</li>
 				<li>
 					<div class="section-image">
-						<img src="/thescrapps/assets/img/mix/partner3.avif" alt="">
+						<img src="/thescrapps-revamp/assets/img/mix/partner3.avif" alt="">
 					</div>
 				</li>
 				<li>
 					<div class="section-image">
-						<img src="/thescrapps/assets/img/mix/partner4.avif" alt="">
+						<img src="/thescrapps-revamp/assets/img/mix/partner4.avif" alt="">
 					</div>
 				</li>
 				<li>
 					<div class="section-image">
-						<img src="/thescrapps/assets/img/mix/partner5.avif" alt="">
+						<img src="/thescrapps-revamp/assets/img/mix/partner5.avif" alt="">
 					</div>
 				</li>
 			</ul>
 		</div>
 	</section>
 
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/tabing.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/tabing.php"); ?>
 
 	<section class="stripe weoffer-sec">
 		<div class="container">
@@ -313,13 +315,13 @@
 				<h3>Awards & Recognitions</h3>
 			</div>
 			<ul class="brand-logos">
-				<li><img src="/thescrapps/assets/img/mix/brand-1.png" alt=""></li>
-				<li><img src="/thescrapps/assets/img/mix/brand-2.png" alt=""></li>
-				<li><img src="/thescrapps/assets/img/mix/brand-3.png" alt=""></li>
-				<li><img src="/thescrapps/assets/img/mix/brand-4.png" alt=""></li>
-				<li><img src="/thescrapps/assets/img/mix/brand-5.png" alt=""></li>
-				<li><img src="/thescrapps/assets/img/mix/brand-6.png" alt=""></li>
-				<li><img src="/thescrapps/assets/img/mix/brand-7.png" alt=""></li>
+				<li><img src="/thescrapps-revamp/assets/img/mix/brand-1.png" alt=""></li>
+				<li><img src="/thescrapps-revamp/assets/img/mix/brand-2.png" alt=""></li>
+				<li><img src="/thescrapps-revamp/assets/img/mix/brand-3.png" alt=""></li>
+				<li><img src="/thescrapps-revamp/assets/img/mix/brand-4.png" alt=""></li>
+				<li><img src="/thescrapps-revamp/assets/img/mix/brand-5.png" alt=""></li>
+				<li><img src="/thescrapps-revamp/assets/img/mix/brand-6.png" alt=""></li>
+				<li><img src="/thescrapps-revamp/assets/img/mix/brand-7.png" alt=""></li>
 			</ul>
 		</div>
 	</section>
@@ -337,7 +339,7 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="image-wrap">
-						<img src="/thescrapps/assets/img/mix/why-choose-img.avif" alt="">
+						<img src="/thescrapps-revamp/assets/img/mix/why-choose-img.avif" alt="">
 					</div>
 				</div>
 			</div>
@@ -347,7 +349,7 @@
 						<div class="blog-inner">
 							<div class="blog-slider__item">
 								<div class="blog-slider__img">
-									<img alt="Design" class="finbyz-zoomin" src="/thescrapps/assets/img/icons/crm1.png" title="Design">
+									<img alt="Design" class="finbyz-zoomin" src="/thescrapps-revamp/assets/img/icons/crm1.png" title="Design">
 								</div>
 								<div class="blog-slider__content">
 									<h4>Customer Relationship</h4>
@@ -362,7 +364,7 @@
 						<div class="blog-inner">
 							<div class="blog-slider__item">
 								<div class="blog-slider__img">
-									<img alt="Design" class="finbyz-zoomin" src="/thescrapps/assets/img/icons/sb1.png" title="Design">
+									<img alt="Design" class="finbyz-zoomin" src="/thescrapps-revamp/assets/img/icons/sb1.png" title="Design">
 								</div>
 								<div class="blog-slider__content">
 									<h4>Stronger Brand</h4>
@@ -378,7 +380,7 @@
 						<div class="blog-inner">
 							<div class="blog-slider__item">
 								<div class="blog-slider__img">
-									<img alt="Design" class="finbyz-zoomin" src="/thescrapps/assets/img/icons/ci1.png" title="Design">
+									<img alt="Design" class="finbyz-zoomin" src="/thescrapps-revamp/assets/img/icons/ci1.png" title="Design">
 								</div>
 								<div class="blog-slider__content">
 									<h4>Customer Insights</h4>
@@ -393,7 +395,7 @@
 						<div class="blog-inner">
 							<div class="blog-slider__item">
 								<div class="blog-slider__img">
-									<img alt="Design" class="finbyz-zoomin" src="/thescrapps/assets/img/icons/ce1.png" title="Design">
+									<img alt="Design" class="finbyz-zoomin" src="/thescrapps-revamp/assets/img/icons/ce1.png" title="Design">
 								</div>
 								<div class="blog-slider__content">
 									<h4>Competitive Edge</h4>
@@ -408,10 +410,10 @@
 			</div>
 		</div>
 	</section>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/project-sec.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/faq.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/contact-form.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/footer.php"); ?>
-	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/scripts.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/project-sec.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/faq.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/contact-form.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/footer.php"); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/scripts.php"); ?>
 </body>
 </html>

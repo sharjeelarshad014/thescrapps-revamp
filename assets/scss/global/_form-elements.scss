@@ -368,8 +368,9 @@ select {
 
     &.btn-primary {
         background: $Pri-gred;
-        border: 1px solid $white;
+        border: 1px solid transparent;
         color: $white;
+        box-shadow: 0px 0px 0px 0px #E26EE5;
 
         &:not(:disabled):not(.disabled).active:focus,
         &:not(:disabled):not(.disabled):active:focus,
@@ -383,10 +384,7 @@ select {
         &:hover,
         &.focus,
         &:focus {
-            background:  $iPrimary;
-            border-color: $iPrimary;
-            border: 1px solid $white;
-            color: $white;
+            box-shadow: 0px 0px 9px -1px #E26EE5;
         }
 
         &.sty1{

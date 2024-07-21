@@ -1,6 +1,7 @@
 .shape{
     position: absolute;
     pointer-events: none;
+    width: 250px;
     @media(max-width: 991px){
         display: none !important;
     }
@@ -50,6 +51,36 @@
     }
 }
 
+.position{
+    &-1{
+        top: -5%;
+        left: 50%;
+        animation: topbottom 2s infinite alternate-reverse;
+    }
+    &-2 {
+        left: 1%;
+        top: 7%;
+        animation: leftright 3s infinite alternate-reverse;
+    }
+    &-3 {
+        right: -6%;
+        top: 11%;
+    }
+    &-4 {
+        right: 38%;
+        bottom: -12%;
+        animation: topbottom2 2s infinite alternate-reverse;
+    }
+    &-5 {
+        right: -5%;
+        bottom: 5%;
+    }
+    &-6 {
+        bottom: -10%;
+        left: 4%;
+    }
+}
+
 ::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -68,3 +99,30 @@
 	border-radius: 10px;
 	background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.44, #3159f7), color-stop(0.72, #885fe7));
 }
+
+
+@keyframes topbottom {
+    from {top: -5%;}
+    to {top: -7%;}
+}
+@keyframes leftright {
+    from {left: 1%;}
+    to {left: -2%;}
+}
+@keyframes topbottom2 {
+    from {bottom: -12%;}
+    to {bottom: -2%;}
+}
+@keyframes topbottom {
+    from {top: -5%;}
+    to {top: -7%;}
+}
+@keyframes topbottom {
+    from {top: -5%;}
+    to {top: -7%;}
+}
+@keyframes topbottom {
+    from {top: -5%;}
+    to {top: -7%;}
+}
+

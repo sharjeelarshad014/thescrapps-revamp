@@ -20,8 +20,8 @@
 <header class="header js-fixed">
 		<div class="fflex">
 			<div class="logo-area">
-				<a href="/thescrapps/" class="logo">
-					<img src="/thescrapps/assets/img/brand/logo.png" alt="">
+				<a href="/thescrapps-revamp/" class="logo">
+					<img src="/thescrapps-revamp/assets/img/brand/logo.png" alt="">
 					
 				</a>
 				<div class="social-ic">
@@ -31,46 +31,46 @@
 			<div class="navigation desktop">
 				<ul>
 					<li class="pl-0">
-						<a href="/thescrapps/about-us">About Us</a>
+						<a href="/thescrapps-revamp/about-us">About Us</a>
 					</li>
 					<li>
 						<a href="javascript:;">Services <i class="ic-18"></i></a>
 						<ul class="dropdown">
-							<li><a href="/thescrapps/services/mobile-app-dev">Mobile App Development </a></li>
-							<li><a href="/thescrapps/services/ios-app-dev/">IOS App Development </a></li>
-							<li><a href="/thescrapps/services/android-app-dev/">Android App Development</a></li>
-							<li><a href="/thescrapps/services/game-app-dev/">Game App Development</a></li>
-							<li><a href="/thescrapps/services/enterprise-app-dev">Enterprise Mobile App Development</a></li>
-							<li><a href="/thescrapps/services/hybrid-app-dev">Hybrid Mobile App Development</a></li>
-							<li><a href="/thescrapps/services/prototype-app-dev">Prototype Mobile App Development</a></li>
-							<li><a href="/thescrapps/services/react-native-app-dev">React Native App Development</a></li>
-							<li><a href="/thescrapps/services/nft-dev">NFT Development</a></li>
-							<li><a href="/thescrapps/services/wearable-app-dev">Wearable App Development</a></li>
-							<li><a href="/thescrapps/services/crossplateform-dev">Cross-Platform App Development</a></li>
+							<li><a href="/thescrapps-revamp/services/mobile-app-dev">Mobile App Development </a></li>
+							<li><a href="/thescrapps-revamp/services/ios-app-dev/">IOS App Development </a></li>
+							<li><a href="/thescrapps-revamp/services/android-app-dev/">Android App Development</a></li>
+							<li><a href="/thescrapps-revamp/services/game-app-dev/">Game App Development</a></li>
+							<li><a href="/thescrapps-revamp/services/enterprise-app-dev">Enterprise Mobile App Development</a></li>
+							<li><a href="/thescrapps-revamp/services/hybrid-app-dev">Hybrid Mobile App Development</a></li>
+							<li><a href="/thescrapps-revamp/services/prototype-app-dev">Prototype Mobile App Development</a></li>
+							<li><a href="/thescrapps-revamp/services/react-native-app-dev">React Native App Development</a></li>
+							<li><a href="/thescrapps-revamp/services/nft-dev">NFT Development</a></li>
+							<li><a href="/thescrapps-revamp/services/wearable-app-dev">Wearable App Development</a></li>
+							<li><a href="/thescrapps-revamp/services/crossplateform-dev">Cross-Platform App Development</a></li>
 						</ul>
 					</li>
 					<li>
 						<a href="javascript:;">Industries <i class="ic-18"></i></a>
 						<ul class="dropdown">
-							<li><a href="/thescrapps/industries/healthcare-app-development">Healthcare App Development </a></li>
-							<li><a href="/thescrapps/industries/taxi-app-development">Taxi App Development </a></li>
-							<li><a href="/thescrapps/industries/real-estate-app-development">Real Estate Mobile App Development </a></li>
-							<li><a href="/thescrapps/industries/ecommerce-app-development">Ecommerce App Development </a></li>
-							<li><a href="/thescrapps/industries/restaurant-app-development">Restaurant App Development </a></li>
-							<li><a href="/thescrapps/industries/manufacturing-app-development">Manufacturing App Development </a></li>
-							<li><a href="/thescrapps/industries/retail-app-development">Retail App Development </a></li>
-							<li><a href="/thescrapps/industries/fitness-app-development">Fitness App Development </a></li>
-							<li><a href="/thescrapps/industries/upi-payment-app-development">UPI Payment App Development </a></li>
-							<li><a href="/thescrapps/industries/pdf-app-development">PDF App Development </a></li>
-							<li><a href="/thescrapps/industries/ride-sharing-app-development">Ride Sharing App</a></li>
-							<li><a href="/thescrapps/industries/parking-space-app-development">Parking SpaceApp</a></li>
+							<li><a href="/thescrapps-revamp/industries/healthcare-app-development">Healthcare App Development </a></li>
+							<li><a href="/thescrapps-revamp/industries/taxi-app-development">Taxi App Development </a></li>
+							<li><a href="/thescrapps-revamp/industries/real-estate-app-development">Real Estate Mobile App Development </a></li>
+							<li><a href="/thescrapps-revamp/industries/ecommerce-app-development">Ecommerce App Development </a></li>
+							<li><a href="/thescrapps-revamp/industries/restaurant-app-development">Restaurant App Development </a></li>
+							<li><a href="/thescrapps-revamp/industries/manufacturing-app-development">Manufacturing App Development </a></li>
+							<li><a href="/thescrapps-revamp/industries/retail-app-development">Retail App Development </a></li>
+							<li><a href="/thescrapps-revamp/industries/fitness-app-development">Fitness App Development </a></li>
+							<li><a href="/thescrapps-revamp/industries/upi-payment-app-development">UPI Payment App Development </a></li>
+							<li><a href="/thescrapps-revamp/industries/pdf-app-development">PDF App Development </a></li>
+							<li><a href="/thescrapps-revamp/industries/ride-sharing-app-development">Ride Sharing App</a></li>
+							<li><a href="/thescrapps-revamp/industries/parking-space-app-development">Parking SpaceApp</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="/thescrapps/portfolio/">Portfolio</a>
+						<a href="/thescrapps-revamp/portfolio/">Portfolio</a>
 					</li>
 					<li>
-						<a href="/thescrapps/contact-us/">Contact</a>
+						<a href="/thescrapps-revamp/contact-us/">Contact</a>
 					</li>
 					<!-- <div class="btn-area sty1 d-none">
 						<a href="javascript:;" class="btn btn-white round-15">Investor Centre <i class="ic-01"></i></a>
@@ -81,7 +81,7 @@
 			<div class="navigation mobile ">
 				<div class="logo-area">
 					<a href="/" class="logo">
-						<img src="/thescrapps/assets/img/brand/logo.png" alt="">
+						<img src="/thescrapps-revamp/assets/img/brand/logo.png" alt="">
 					</a>
 					
 					<div class="nav-hamburger js-menubtn">

@@ -114,7 +114,7 @@ br {
         position: absolute;
         inset: 0;
         margin: auto;
-        background: url(/thescrapps/assets/img/mix/mob-bg.png);
+        background: url(/thescrapps-revamp/assets/img/mix/mob-bg.png);
         background-repeat: no-repeat;
         background-position: center;
         width: 100%;
@@ -137,7 +137,7 @@ br {
             position: absolute;
             inset: 0;
             margin: auto;
-            background: url(/thescrapps/assets/img/mix/android-bg.png);
+            background: url(/thescrapps-revamp/assets/img/mix/android-bg.png);
             background-repeat: no-repeat;
             background-position: center;
             width: 100%;
@@ -1919,7 +1919,7 @@ br {
 }
 
 .exprerience-sec {
-    background-image: linear-gradient(179deg, #3159f7 -10.77%, #885fe7 83.62%);
+    background-image: $Pri-gred;
     padding: 30px 0;
     display: flex;
     align-items: center;
@@ -1989,7 +1989,7 @@ br {
     margin-bottom: 30px;
 
     &:hover {
-        background: linear-gradient(179deg, #3159f7 -10.77%, #885fe7 83.62%);
+        background: $Pri-gred;
 
         .service-icon {
             color: #fff !important;

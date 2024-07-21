@@ -4,20 +4,20 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/brand-info.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/brand-info.php"); ?>
     <title>UPI Payment App Development | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/style.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/style.php"); ?>
 </head>
 
 <body>
     <!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/header.php"); ?>
-    <div class="banner inner" style="background-image: url(/thescrapps/assets/img/bg/banner-about-us.png);">
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/header.php"); ?>
+    <div class="banner inner" style="background-image: url(/thescrapps-revamp/assets/img/bg/banner-about-us.png);">
         <div class="container h-100">
             <div class="row h-100">
                 <div class="col-lg-6 align-self-center">
@@ -25,7 +25,7 @@
                         <h3>SUPERCHARGE YOUR PAYMENTS WITH CUTTING-EDGE UPI PAYMENT APP DEVELOPMENT SERVICES</h3>
                         <p>Experience the future of payments with The Scrapps's tailored app for UPI payment, meticulously designed to simplify and enhance your financial transactions.</p>
                         <div class="comp-btn aos-init aos-animate" data-aos="fade-up">
-                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get a Quote</a>
+                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get a Quote</a>
                             <a href="javascript:;" class="btn btn-transparent">Live Chat</a>
                         </div>
                     </div>
@@ -64,10 +64,10 @@
                 <h3>Trusted & Reviewed On</h3>
             </div>
             <ul class="comnp-logos mt-4">
-                <li data-aos="zoom-in-up" data-aos-duration="500" class="aos-init aos-animate"><img src="/thescrapps/assets/img/mix/comp-1.png" alt=""></li>
-                <li data-aos="zoom-in-up" data-aos-duration="800" class="aos-init aos-animate"><img src="/thescrapps/assets/img/mix/comp-2.png" alt=""></li>
-                <li data-aos="zoom-in-up" data-aos-duration="1100" class="aos-init aos-animate"><img src="/thescrapps/assets/img/mix/comp-3.png" alt=""></li>
-                <li data-aos="zoom-in-up" data-aos-duration="1400" class="aos-init aos-animate"><img src="/thescrapps/assets/img/mix/comp-4.png" alt=""></li>
+                <li data-aos="zoom-in-up" data-aos-duration="500" class="aos-init aos-animate"><img src="/thescrapps-revamp/assets/img/mix/comp-1.png" alt=""></li>
+                <li data-aos="zoom-in-up" data-aos-duration="800" class="aos-init aos-animate"><img src="/thescrapps-revamp/assets/img/mix/comp-2.png" alt=""></li>
+                <li data-aos="zoom-in-up" data-aos-duration="1100" class="aos-init aos-animate"><img src="/thescrapps-revamp/assets/img/mix/comp-3.png" alt=""></li>
+                <li data-aos="zoom-in-up" data-aos-duration="1400" class="aos-init aos-animate"><img src="/thescrapps-revamp/assets/img/mix/comp-4.png" alt=""></li>
             </ul>
         </div>
     </section>
@@ -156,7 +156,7 @@
             <div class="row">
                 <div class="col-lg-6 align-self-center">
                     <div class="image-wrap">
-                        <img src="/thescrapps/assets/img/mix/upi-1.png" alt="">
+                        <img src="/thescrapps-revamp/assets/img/mix/upi-1.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -180,14 +180,14 @@
 							<h3 data-aos="fade-right">TAKE THE LEAP INTO SEAMLESS PAYMENTS TODAY!</h3>
 							<p data-aos="fade-right">Get started with our UPI payment app and revolutionize your financial experience.</p>
 							<div class="project-btn">
-								<a href="/thescrapps/contact-us/" class="btn btn-white" data-aos="fade-right" data-aos-duration="500">Get a Quote</a>
+								<a href="/thescrapps-revamp/contact-us/" class="btn btn-white" data-aos="fade-right" data-aos-duration="500">Get a Quote</a>
 								<a href="javascript:;" class="btn btn-black" data-aos="fade-right" data-aos-duration="1000">Live Chat</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-4">
 						<div class="project-img" data-aos="zoom-out-left">
-							<img src="/thescrapps/assets/img/mix/upi-cta-img1.png" alt="">
+							<img src="/thescrapps-revamp/assets/img/mix/upi-cta-img1.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -242,12 +242,12 @@
         </div>
     </section>
 
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/testimonials.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/testimonials.php"); ?>
 
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/faq.php"); ?>
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/contact-form.php"); ?>
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/footer.php"); ?>
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/scripts.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/faq.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/contact-form.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/footer.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/scripts.php"); ?>
 </body>
 
 </html>

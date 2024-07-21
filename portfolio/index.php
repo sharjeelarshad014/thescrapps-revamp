@@ -4,19 +4,19 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/brand-info.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/brand-info.php"); ?>
     <title>Home | <?php echo "$brandName";?></title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/style.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/style.php"); ?>
 </head>
 
 <body>
     <!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/header.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/header.php"); ?>
     <div class="banner">
         <div class="container h-100">
             <div class="banner-content h-100 text-center">
@@ -25,21 +25,21 @@
                     Apps From A Single Codebase</p>
                 <ul class="comnp-logos mt-4">
                     <li data-aos="zoom-in-up" data-aos-duration="500" class="aos-init aos-animate"><img
-                            src="/thescrapps/assets/img/mix/comp-1.png" alt=""></li>
+                            src="/thescrapps-revamp/assets/img/mix/comp-1.png" alt=""></li>
                     <li data-aos="zoom-in-up" data-aos-duration="800" class="aos-init aos-animate"><img
-                            src="/thescrapps/assets/img/mix/comp-2.png" alt=""></li>
+                            src="/thescrapps-revamp/assets/img/mix/comp-2.png" alt=""></li>
                     <li data-aos="zoom-in-up" data-aos-duration="1100" class="aos-init aos-animate"><img
-                            src="/thescrapps/assets/img/mix/comp-3.png" alt=""></li>
+                            src="/thescrapps-revamp/assets/img/mix/comp-3.png" alt=""></li>
                     <li data-aos="zoom-in-up" data-aos-duration="1400" class="aos-init aos-animate"><img
-                            src="/thescrapps/assets/img/mix/comp-4.png" alt=""></li>
+                            src="/thescrapps-revamp/assets/img/mix/comp-4.png" alt=""></li>
                 </ul>
                 <div class="comp-btn aos-init aos-animate" data-aos="fade-up">
-                    <a href="/thescrapps/contact-us/" class="btn btn-primary">Get a Quote</a>
+                    <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get a Quote</a>
                     <a href="javascript:;" class="btn btn-transparent">Live Chat</a>
                 </div>
             </div>
             <div class="banner-img">
-                <img src="/thescrapps/assets/img/bg/banner-mob.avif" alt="">
+                <img src="/thescrapps-revamp/assets/img/bg/banner-mob.avif" alt="">
             </div>
         </div>
     </div>
@@ -50,13 +50,13 @@
                 <h3>Awards & Recognitions</h3>
             </div>
             <ul class="brand-logos">
-                <li><img src="/thescrapps/assets/img/mix/brand-1.png" alt=""></li>
-                <li><img src="/thescrapps/assets/img/mix/brand-2.png" alt=""></li>
-                <li><img src="/thescrapps/assets/img/mix/brand-3.png" alt=""></li>
-                <li><img src="/thescrapps/assets/img/mix/brand-4.png" alt=""></li>
-                <li><img src="/thescrapps/assets/img/mix/brand-5.png" alt=""></li>
-                <li><img src="/thescrapps/assets/img/mix/brand-6.png" alt=""></li>
-                <li><img src="/thescrapps/assets/img/mix/brand-7.png" alt=""></li>
+                <li><img src="/thescrapps-revamp/assets/img/mix/brand-1.png" alt=""></li>
+                <li><img src="/thescrapps-revamp/assets/img/mix/brand-2.png" alt=""></li>
+                <li><img src="/thescrapps-revamp/assets/img/mix/brand-3.png" alt=""></li>
+                <li><img src="/thescrapps-revamp/assets/img/mix/brand-4.png" alt=""></li>
+                <li><img src="/thescrapps-revamp/assets/img/mix/brand-5.png" alt=""></li>
+                <li><img src="/thescrapps-revamp/assets/img/mix/brand-6.png" alt=""></li>
+                <li><img src="/thescrapps-revamp/assets/img/mix/brand-7.png" alt=""></li>
             </ul>
         </div>
     </section>
@@ -101,7 +101,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/healrh-tracker-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/healrh-tracker-logo.webp" alt="">
                                             <h3 class="h3">Health Tracker</h3>
                                         </div>
                                         <p>Discover The Convenience Of Health Tracker, A User-Friendly App That Empowers
@@ -111,7 +111,7 @@
                                             Health And Well-Being With This Powerful And Intuitive Tool. Download Health
                                             Tracker Today And Make Informed Choices For A Healthier You.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.appsky.android.bloodpressure"
                                                 class="btn btn-primary">Install Now</a>
                                             <a href="https://apps.apple.com/us/app/health-tracker-bp-hub/id6469587530"
@@ -121,7 +121,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/health-tracker.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/health-tracker.webp" alt="">
 										<!-- ...... -->
                                     </div>
                                 </div>
@@ -130,7 +130,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/healthy-together-main.webp"
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/healthy-together-main.webp"
                                                 alt="">
                                             <h3 class="h3">Healthy Together</h3>
                                         </div>
@@ -140,7 +140,7 @@
                                             And Get Supplies Specific To Their Search For Wellbeing. It Serves As A
                                             Reminder That We Can All Enjoy A Healthier Life Together.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=co.twenty.stop.spread"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -148,7 +148,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/healthy-together-logo.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/healthy-together-logo.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +156,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/home-fitness-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/home-fitness-logo.webp" alt="">
                                             <h3 class="h3">Home Fitness</h3>
                                         </div>
                                         <p>Home Fitness Takes The Gym Into Your Living Room, Making Wellness Accessible
@@ -165,7 +165,7 @@
                                             Videos From Licensed Trainers. Change Your Health Journey From The Comfort
                                             Of Your Own Home, As Every Action Matters.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=net.workout.lose.weight.fitness.fit.coach"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -173,7 +173,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/home-fitness-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/home-fitness-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/united-1.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/united-1.webp" alt="">
                                             <h3 class="h3">United</h3>
                                         </div>
                                         <p>United Is Your One-Stop Shop For Health, Designed To Make Your Health Journey
@@ -190,7 +190,7 @@
                                             Includes Variety Of Characteristics Designed To Encourage Both Physical And
                                             Mental Wellness.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.mobile.uhc&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                             <a href="https://apps.apple.com/us/app/unitedhealthcare/id1348316600"
@@ -200,7 +200,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/united-2.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/united-2.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -212,7 +212,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/jeeb-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/jeeb-logo.webp" alt="">
                                             <h3 class="h3">Jeeb | Grocery Delivery</h3>
                                         </div>
                                         <p>Your Dedicated Destination For All Things Groceries. We're Committed To
@@ -222,7 +222,7 @@
                                             Biryani, Or A Family BBQ. Experience Convenience And Quality With Jeeb, Your
                                             Trusted Partner In Grocery Delivery.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.jeeb.user"
                                                 class="btn btn-primary">Install Now</a>
                                             <a href="https://apps.apple.com/in/app/jeeb-grocery-service/id1614152924"
@@ -232,7 +232,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/jeeb.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/jeeb.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -240,7 +240,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/qfc-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/qfc-logo.webp" alt="">
                                             <h3 class="h3">QFC</h3>
                                         </div>
                                         <p>QFC Gives Users An Effortless And Easy Way To Get Premium Food Items And
@@ -249,7 +249,7 @@
                                             Bringing The Joy Of Cooking To Your Family. Quality, Feasibility, And Care-
                                             Only At QFC.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=co.twenty.stop.spread"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -257,7 +257,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/qfc-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/qfc-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -265,7 +265,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/ruler-food-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/ruler-food-logo.webp" alt="">
                                             <h3 class="h3">Ruler Food</h3>
                                         </div>
                                         <p>Ruler Food App Gives It Consumers An Easy And Affordable Grocery Shopping
@@ -274,7 +274,7 @@
                                             Family-Friendly Recipes, Reasonably Priced Goods, And A Supportive
                                             Community.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.rulerfoods.mobile&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -282,7 +282,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/ruler-food-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/ruler-food-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -294,7 +294,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/trackwallet-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/trackwallet-logo.webp" alt="">
                                             <h3 class="h3">Track Wallet | Expense Tracker</h3>
                                         </div>
                                         <p>TrackWallet Is Your Ultimate Money Manager And Expense Tracker App, Designed
@@ -303,7 +303,7 @@
                                             In Control Of Your Financial Goals On The Go With TrackWallet, Ensuring Your
                                             Financial Peace Of Mind In Just A Few Taps.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=pw.ninthfi.myincome&hl=en&gl=US"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -311,7 +311,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/trackwallet.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/trackwallet.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -319,7 +319,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/advancly-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/advancly-logo.webp" alt="">
                                             <h3 class="h3">Advancly</h3>
                                         </div>
                                         <p>Advacly Is Your Reliable Financial Partner. This App Gives Tailored Financial
@@ -328,7 +328,7 @@
                                             Well-Guided Financial Path Through Customized Advice And Professional
                                             Insights.Take Charge Of Your Finances With Advancly.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.advancly&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -336,7 +336,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/advancly-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/advancly-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -344,7 +344,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/allio-finance-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/allio-finance-logo.webp" alt="">
                                             <h3 class="h3">Allio Finance</h3>
                                         </div>
                                         <p>The Only Digitized, Expert-Managed Financial App In The 21st Century, Allio
@@ -353,7 +353,7 @@
                                             Ticket To Financial Success. Get Started Now To Easily Protect Your
                                             Financial Future.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.alliofinance.app&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                             <a href="https://apps.apple.com/us/app/allio-finance/id6443817562"
@@ -363,7 +363,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/allio-finance-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/allio-finance-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -375,7 +375,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/recime-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/recime-logo.webp" alt="">
                                             <h3 class="h3">ReciMe | Easy Recipes</h3>
                                         </div>
                                         <p>ReciMe Is Your Social Hub For Culinary Inspiration, Offering A Platform To
@@ -385,7 +385,7 @@
                                             Movement With ReciMe, Where Every Meal Becomes A Culinary Adventure And
                                             Every Recipe Finds Its Perfect Home.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.recime.app&hl=en&gl=US"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -393,7 +393,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/recimen.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/recimen.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -401,7 +401,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/grub-hub.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/grub-hub.webp" alt="">
                                             <h3 class="h3">Grub Hub: Food Delivery</h3>
                                         </div>
                                         <p>Whether You Want To Take Your Restaurant Online Or Wish To Offer Food
@@ -409,7 +409,7 @@
                                             What Your Business Needs To Go BIG. Connect With Us, And Let Us Help You
                                             Take Your Operations Into The Online World!</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.grubhub.android"
                                                 class="btn btn-primary">Install Now</a>
                                             <a href="https://apps.apple.com/us/app/grubhub-food-delivery/id302920553"
@@ -419,7 +419,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/seamless.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/seamless.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -427,7 +427,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/hi-menu-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/hi-menu-logo.webp" alt="">
                                             <h3 class="h3">Hi-Menu</h3>
                                         </div>
                                         <p>Dining Is Revolutionized By The "Hi-Menu" App. Using Your Smartphone, You Can
@@ -435,7 +435,7 @@
                                             Smooth Eating And Say Goodbye To Waiting. Try Hi-Menu For A Fresh Take On
                                             Your Favorite Dishes.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.inlogic.himenus&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -443,7 +443,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/hi-menu-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/hi-menu-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -451,7 +451,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/sweetgreen-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/sweetgreen-logo.webp" alt="">
                                             <h3 class="h3">Sweet-Green</h3>
                                         </div>
                                         <p>Your Food Adventure Is Made Better By The Sweetgreen App. Explore A Menu Full
@@ -460,7 +460,7 @@
                                             Awards And Simple Payment. The Sweetgreen App Lets You Discover A Better,
                                             Tastier Way Of Eating.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.sweetgreen.android.app&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -468,7 +468,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/sweetgreen-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/sweetgreen-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -480,7 +480,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/buzzz-blocks-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/buzzz-blocks-logo.webp" alt="">
                                             <h3 class="h3">Buzzz Blocks</h3>
                                         </div>
                                         <p>It's The Brainteaser That Will Keep You Hooked, Buzz Blocks Puzzle. Play With
@@ -489,7 +489,7 @@
                                             Stimulation, Thanks To Its Exciting Gameplay And Rising Difficulty. Play
                                             Buzz Blocks Puzzle To Release The Satisfying Buzz!</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.rikudogames.buzzzblocks"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -497,7 +497,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/buzzz-blocks-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/buzzz-blocks-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -505,7 +505,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/number-blocks-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/number-blocks-logo.webp" alt="">
                                             <h3 class="h3">Number Blocks</h3>
                                         </div>
                                         <p>A Fun Puzzle Game That Challenges Your Arithmetic Abilities Can Be Downloaded
@@ -514,7 +514,7 @@
                                             Your Mind Busy With Its Simple Yet Addicting Action. Play This Entertaining
                                             Mobile Game To Experience The Excitement Of Numbers.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.rikudogames.numblocks&hl=en&gl=US"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -522,7 +522,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/number-blocks-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/number-blocks-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -530,7 +530,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/vertical-race-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/vertical-race-logo.webp" alt="">
                                             <h3 class="h3">Vertical Race</h3>
                                         </div>
                                         <p>The Vertical Race Raises The Bar For Gaming. In This Thrilling Vertical Race,
@@ -539,7 +539,7 @@
                                             Action And Cunning Tactics. Take On New Challenges In Vertical Race And Beat
                                             The Opposition.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.inlogic.himenus&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -547,7 +547,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/vertical-race-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/vertical-race-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -559,7 +559,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/crichype-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/crichype-logo.webp" alt="">
                                             <h3 class="h3">Cric Hype</h3>
                                         </div>
                                         <p>All Cricket Fans Dream Come True With The Crichype App. Enjoy In-Depth
@@ -567,7 +567,7 @@
                                             Events. It Keeps You Updated On Cricket News And Player Statistics In Real
                                             Time. Crichype Lets You To Feel The Thrill Of The Game Like Never Before</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.updatetechltd.crichype&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                             <a href="https://apps.apple.com/rw/app/crichype-fast-cricket-score/id6470809226"
@@ -577,7 +577,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/crichype-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/crichype-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -585,7 +585,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/stadium-live-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/stadium-live-logo.webp" alt="">
                                             <h3 class="h3">Stadium Live</h3>
                                         </div>
                                         <p>The Thrill Of Live Sports Is Brought To You By Stadium Live. Get Play-By-Play
@@ -593,7 +593,7 @@
                                             Fun Gets Better With Digital Stadium Maps And Ticketing Options. Stadium
                                             Live Teleports You In The World Of Sports.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.stadiumlive&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                             <a href="https://apps.apple.com/uy/app/stadium-live-predict-sports/id1485936601"
@@ -603,7 +603,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/stadium-live-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/stadium-live-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -611,7 +611,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/sports-biz-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/sports-biz-logo.webp" alt="">
                                             <h3 class="h3">Sports Biz</h3>
                                         </div>
                                         <p>Your Perfect Sports Business Partner Is The Sports Biz App. Keep Up With The
@@ -620,7 +620,7 @@
                                             With Its Extensive Insights And News. Use Sports Biz To Stay On Top Of The
                                             Game.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.constant.sportsbiznet&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -628,7 +628,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/sports-biz-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/sports-biz-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -640,7 +640,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/simply-auto-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/simply-auto-logo.webp" alt="">
                                             <h3 class="h3">Simply Auto</h3>
                                         </div>
                                         <p>Simply Auto Is Your Personal Auto Repair Guide, Created To Ensure Best
@@ -649,7 +649,7 @@
                                             Maintenance Is Due, And Providing Helpful Advice. Car Maintenance Simple
                                             With Simply Auto.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=mrigapps.andriod.fuelcons&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                         </div>
@@ -657,7 +657,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/simply-auto-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/simply-auto-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -665,7 +665,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/smart-estimator-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/smart-estimator-logo.webp" alt="">
                                             <h3 class="h3">Smart Estimator</h3>
                                         </div>
                                         <p>Smart Estimator Offers Accurate, Customized Estimates For Repairs And
@@ -675,7 +675,7 @@
                                             Auto Care And Building Confidence Between Car Owners And Service Providers.
                                         </p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.smartestimator.app&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                             <a href="https://apps.apple.com/gb/app/smart-estimator-app/id1544475782"
@@ -685,7 +685,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/smart-estimator-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/smart-estimator-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -693,7 +693,7 @@
                                 <div class="col-lg-6">
                                     <div class="section-content" data-aos="fade-right">
                                         <div class="sm-logo">
-                                            <img src="/thescrapps/assets/img/portfolio/your-mechanic-logo.webp" alt="">
+                                            <img src="/thescrapps-revamp/assets/img/portfolio/your-mechanic-logo.webp" alt="">
                                             <h3 class="h3">Your Mechanic</h3>
                                         </div>
                                         <p>Your Mechanic App Revolutionizes Vehicle Maintenance. Convenience And
@@ -702,7 +702,7 @@
                                             With Clear Pricing, Simple Planning, And Professional Care- Keeping Your Car
                                             In Excellent Condition At The Touch Of A Button.</p>
                                         <div class="btn-wrap">
-                                            <a href="/thescrapps/contact-us/" class="btn btn-primary">Get Started</a>
+                                            <a href="/thescrapps-revamp/contact-us/" class="btn btn-primary">Get Started</a>
                                             <a href="https://play.google.com/store/apps/details?id=com.yourmechanic.YourMechanic&pcampaignid=web_share"
                                                 class="btn btn-primary">Install Now</a>
                                             <a href="https://apps.apple.com/us/app/yourmechanic/id757554909"
@@ -712,7 +712,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="section-img" data-aos="fade-left" data-aos-duration="900">
-                                        <img src="/thescrapps/assets/img/portfolio/your-mechanic-main.webp" alt="">
+                                        <img src="/thescrapps-revamp/assets/img/portfolio/your-mechanic-main.webp" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -723,11 +723,11 @@
         </div>
     </section>
 
-    <?php //include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/project-sec.php"); ?>
-    <?php //include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/faq.php"); ?>
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/contact-form.php"); ?>
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/footer.php"); ?>
-    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps/includes/scripts.php"); ?>
+    <?php //include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/project-sec.php"); ?>
+    <?php //include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/faq.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/contact-form.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/footer.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT']."/thescrapps-revamp/includes/scripts.php"); ?>
 </body>
 
 </html>
